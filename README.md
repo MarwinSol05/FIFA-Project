@@ -5,7 +5,7 @@ Player Clustering Model
 https://nbviewer.org/github/MarwinSol05/FIFA-Project/blob/main/Player%20Clustering.ipynb
 
 # Motivation/Situation
-I am an avid fan of both football and the game FIFA. I have been playing FIFA for the past 10 years or so and had always been fascinated with the developments (however few they maybe) taking place in the game. This time around, I decided to leverage the dataset used in the game to create a practical model which is a perfect intersection of my favorite game FIFA and my desired field of Analytics.
+I am an avid fan of both football and the game FIFA. I have been playing FIFA for the past 10 years or so and had always been fascinated with the developments (however few they maybe) taking place in the game. This time around, I decided to leverage the dataset used in the game to create a practical model which is a perfect intersection of my favorite game FIFA and my desired field of work that is Analytics.
 
 # Task
 The objective of this project is to build a player clustering model based on their potential in positions like goalkeeping, defense, midfield and attack. The players thus identified can be used by the clubs for scouting purpose and as potential targets during the summer and winter transfer window.
