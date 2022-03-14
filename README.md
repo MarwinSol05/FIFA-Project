@@ -1,6 +1,9 @@
 # FIFA-Project
 Player Clustering Model
 
+### Kindly use the below link to see plotly plots as the interactive plots cannot be rendered at Github and static view of plots is available via this link.
+https://nbviewer.org/github/MarwinSol05/FIFA-Project/blob/main/Player%20Clustering.ipynb
+
 # Motivation/Situation
 I am an avid fan of both football and the game FIFA. I have been playing FIFA for the past 10 years or so and had always been fascinated with the developments (however few they maybe) taking place in the game. This time around, I decided to leverage the dataset used in the game to create a practical model which is a perfect intersection of my favorite game FIFA and my desired field of Analytics.
 
