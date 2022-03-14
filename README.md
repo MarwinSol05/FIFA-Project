@@ -18,7 +18,7 @@ The objective of this project is to build a player clustering model based on the
 5. Algorithm Deployment: K-Means Clustering
 
 # Result 
-Able to classify attacking players into 5 different categories with Cluster 0 being the highest rated and so on.
+Able to classify attacking players into 5 different categories with each cluster denoting the rating.
 
 # Advantage of the project- 
 1.	It can help the sports franchises (clubs in this case) to get an estimate of the player’s worth in transfer windows.
