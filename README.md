@@ -1,7 +1,7 @@
 # FIFA-Project
 Player Clustering Model
 
-### Kindly use the below link to see plotly plots as the interactive plots cannot be rendered at Github and static view of plots is available via this link.
+### Kindly use the below link to see plotly plots as the interactive plots cannot be rendered in the file hosted at Github.
 https://nbviewer.org/github/MarwinSol05/FIFA-Project/blob/main/Player%20Clustering.ipynb
 
 # Motivation/Situation
