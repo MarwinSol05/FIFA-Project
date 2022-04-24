@@ -1,4 +1,4 @@
-# FIFA-Project
+# FIFA Project
 Player Clustering Model
 
 ### Kindly use the below link to see plotly plots as the interactive plots cannot be rendered in the file hosted at Github.
