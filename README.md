@@ -20,7 +20,7 @@ The objective of this project is to build a player clustering model based on the
 # Result 
 Classified attacking players into 5 different categories with each cluster denoting their attacking rating.
 
-# Advantage of the project- 
+# Advantage of the project
 1.	It can help the sports franchises (football clubs in this case) to get an estimate of the player’s worth in transfer window.
 2.	It can help in the identification of early rising talents.
 3.	Since, it is based on the real-life dataset of FIFA with applicability in football so, it can be applied in National Basketball Association (NBA), National Football League (NFL), and National Hockey League (NHL) among others using the datasets of video games like NBA, NFL and NHL respectively.
