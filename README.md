@@ -2,6 +2,7 @@
 Player Clustering Model
 
 ### Kindly use the below link to see plotly plots as the interactive plots cannot be rendered in the file hosted at Github.
+https://nbviewer.org/github/MarwinSol05/FIFA-Project/blob/main/Player_Clustering_Model.ipynb
 
 # Motivation/Situation
 I am an avid fan of both football and the video game FIFA. I have been playing FIFA for quite a while now and had always been fascinated with the developments (however few they maybe) taking place in the game. This time around, I decided to leverage the dataset used in the game to create a practical Machine Learning Model which is a perfect intersection between my favorite game FIFA and my desired field of work, Analytics.
